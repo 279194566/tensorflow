@@ -1,1 +1,1 @@
-FROM tensorflow:2.7.0-gpu
+FROM tensorflow/tensorflow:2.7.4-gpu
